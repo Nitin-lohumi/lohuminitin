@@ -432,7 +432,7 @@ gap: 1.6rem;
 }
 .feature .heading
 {
-    margin-bottom: 5px;
+    margin-bottom: 1rem;
 }
 .feature .box-container .box
 {
@@ -476,7 +476,7 @@ box-shadow: 0 .2rem 1rem rgba(212, 208, 208, 0.78);
 /*product*/
 .product .heading
 {
-margin-bottom: 7px;
+margin-bottom: 1rem;
 
 }
 
@@ -536,7 +536,10 @@ border: 0px solid;
 
 
 /*categories*/
-
+.categories .heading
+{
+margin-buttom:1.7rem;
+}
 .categories .box-container 
 {
 border: 0px solid;
@@ -585,7 +588,9 @@ gap: 1.5rem;
 
 
 /*review*/
-
+.review .heading
+{ margin-buttom:1rem;
+}
 .review .review-slider
 {
     border: 0px solid;
