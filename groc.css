@@ -48,7 +48,7 @@ html
     color:#f6f7f5;
     display:inline-block;
     padding:.3rem 2rem;
-    background-color: #9ae41a;
+    background-color: #3aff34;
     border-radius: 3rem;
         
 }
@@ -399,14 +399,14 @@ margin: 1rem 0%;
 
         .heading {
         	animation-name: example;
-        	animation-duration: 12s;
+        	animation-duration: 13s;
         	animation-iteration-count: infinite;
         
         }
 
         span{
         	animation-name: example;
-        	animation-duration: 7s;
+        	animation-duration: 5s;
         	animation-delay: 4s;
             animation-iteration-count:infinite;
             
@@ -417,7 +417,7 @@ margin: 1rem 0%;
         		color: rgb(244, 38, 38);
         	}
         	to {
-        		color: rgba(66, 166, 253, 0.952);
+        		color: hwb(169 1% 1% / 0.667);
         	}
         }
 
